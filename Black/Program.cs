@@ -8,6 +8,10 @@ namespace Black
 {
     internal class Program
     {
+        static void GreetWhite(string[] args)
+        {
+            Console.Write("hello white")
+        }
         static void Main(string[] args)
         {
             Console.Write("hello");
