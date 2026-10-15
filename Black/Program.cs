@@ -14,7 +14,7 @@ namespace Black
         }
         static void Main(string[] args)
         {
-            Console.Write("hello");
+            Console.Write("hello everyone");
         }
     }
 }
