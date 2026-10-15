@@ -21,6 +21,8 @@ namespace Black
         static void Main(string[] args)
         {
             Console.Write("hello everyone");
+            GreetWhite();
+            GreetBlack();
         }
     }
 }
